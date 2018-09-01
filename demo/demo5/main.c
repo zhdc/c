@@ -29,7 +29,7 @@ int main() {
         printf("%5d",a[i]);
     }
     printf("\n");
-    printf("过程dd\n");
+    printf("过程ddcc\n");
     insort(a,10);
     printf("\n插入数据排序后顺序:\n");
     for(i=1;i<11;i++){
